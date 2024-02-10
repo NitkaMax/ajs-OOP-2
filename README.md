@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yx8d06tih21j7j3t?svg=true)](https://ci.appveyor.com/project/NitkaMax/ajs-oop-2)
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
